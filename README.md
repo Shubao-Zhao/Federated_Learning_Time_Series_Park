@@ -53,10 +53,41 @@ If your publication is not included here, please email to zhaoshubao@enn.cn
 | Deep learning on multi-view sequential data: a survey                        | Zhuyang Xie,  Southwest Jiaotong University          |   Artificial Intelligence Review(IF:9.588) | 2022 | https://link.springer.com/article/10.1007/s10462-022-10332-z  |  None |
 | A review on outlier/anomaly detection in time series data                       | ANE BLÁZQUEZ-GARCÍA,  Basque Research and Technology Alliance (BRTA)          |   ACM Computing Surveys(IF:14.324) | 2021 | https://arxiv.org/pdf/2002.04236.pdf  |  None |
 | Time series data augmentation for deep learning: a survey                      | Qingsong Wen,  DAMO Academy          |   IJCAI | 2021 | https://arxiv.org/abs/2002.12478  |  None |
+| Time-series forecasting with deep learning: a survey                      | Bryan Lim,  University of Oxford         |   Transactions of the Royal Society A | 2021 | https://royalsocietypublishing.org/doi/full/10.1098/rsta.2020.0209  |  None |
 
 
 ## AI for Time Series
 ### Contrastive/Representation Learning for Time Series
+|    Title                                                                      | Authors              | Journal/Conference | date     | Link     | Code                |
+|---|---|---|---|---|---|
+| MICOS: Mixed supervised contrastive learning for multivariate time series classification   | ShileiHao, Beijing Jiaotong University          |   Knowledge-Based Systems(IF:8.139) | 2023 | https://www.sciencedirect.com/science/article/abs/pii/S0950705122012540   |  None |
+| Self-supervised anomaly pattern detection for large scale industrial data   | XiaoyueTang,  Wuhan Polytechnic University          |   Neurocomputing(IF:5.779) | 2023 | https://www.sciencedirect.com/science/article/abs/pii/S0925231222011572   |  None |
+| Contrastive Pre-Training for Multimodal Medical Time Series          |Aniruddh Raghu, Massachusetts Institute of Technology|   NeurIPS 2022 Workshop TS4H | 2022 | https://openreview.net/forum?id=4M-D9j9gFHW   |  None |
+| Contrastive Pre-Training for Multimodal Medical Time Series          |Aniruddh Raghu, Massachusetts Institute of Technology|   NeurIPS 2022 Workshop TS4H | 2022 | https://openreview.net/forum?id=4M-D9j9gFHW   |  None |
+| Learning Latent Seasonal-Trend Representations for Time Series Forecasting |  Zhiyuan Wang, University of Electronic Science and Technology of China | NeurIPS | 2022 | https://openreview.net/forum?id=C9yUwd72yy  |  https://github.com/zhycs/LaST |
+| DBT-DMAE: An Effective Multivariate Time Series Pre-Train Model under Missing Data |  Kai Zhang, Zhejiang University Control Engineering and Science Department | arXiv | 2022 | https://arxiv.org/pdf/2209.07798.pdf  |  https://github.com/zhycs/LaST |
+| Contrastive Representation based Active Learning for Time Series |  Lujia Pan, Xi’an Jiaotong University | DASC | 2022 | https://ieeexplore.ieee.org/abstract/document/9927927  |  None |
+| Towards Learning Disentangled Representations for Time Series|  Yuening Li,  Texas A&M University | arXiv | 2022 | https://arxiv.org/pdf/2105.08179.pdf  |  None |
+| Mining Spatio-Temporal Relations via Self-Paced Graph
+Contrastive Learning|  Rongfan Li,  University of Electronic Science and Technology of China | arXiv | 2022 | https://web.archive.org/web/20220814185837id_/https://dl.acm.org/doi/pdf/10.1145/3534678.3539422  |  None |
+| Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning |  Rongfan Li,  University of Electronic Science and Technology of China | arXiv | 2022 | https://web.archive.org/web/20220814185837id_/https://dl.acm.org/doi/pdf/10.1145/3534678.3539422  |  None |
+| Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification |  Emadeldeen Eldele,  Nanyang Technological University | TPAMI | 2022 | https://arxiv.org/abs/2208.06616  |  https://github.com/emadeldeen24/TS-TCC |
+| Contrastive autoencoder for anomaly detection in multivariate time series |  Hao Zhou,  Beijing University of Posts and Telecommunications | Information Sciences(IF:8.233) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S0020025522008775  |  None |
+| Self-Supervised Time Series Representation Learning with Temporal-Instance Similarity Distillation |  Ainaz Hajimoradlou,  Borealis AI | ICML 2022 Pre-training Workshop | 2022 | https://openreview.net/forum?id=nhtkdCvVLIh  |  https://github.com/BorealisAI/ssl-for-timeseries |
+| Utilizing Expert Features for Contrastive Learning of Time-Series Representations |  Manuel T Nonnenmacher,  University of Stuttgart | ICML | 2022 | https://proceedings.mlr.press/v162/nonnenmacher22a.html  |  https://github.com/boschresearch/expclr |
+| Unsupervised time-series representation learning with iterative bilinear temporal-spectral fusion |  Ling Yang,  , Peking University | ICML | 2022 | https://proceedings.mlr.press/v162/yang22e.html  |  None |
+| CoupledMUTS: Coupled Multivariate Utility Time-Series Representation and Prediction |  Siyuan Ren, Institute for Infocomm Research, A*STAR | Neurocomputing(IF:5.779) | 2022 | https://ieeexplore.ieee.org/abstract/document/9802652  |  None |
+| Contrastive adversarial knowledge distillation for deep model compression in time-series regression tasks |  QingXua, Northwestern Polytechnical University | IEEE Internet of Things Journal(IF:10.238) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S0925231221016374  |  None |
+| Contrastive learning based self-supervised time-series analysis |  JohannesPöppelbaum, South Westphalia University of Applied Sciences | Applied Soft Computing(IF:8.263) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S1568494621011558  |  None |
+| TimeCLR: A self-supervised contrastive learning framework for univariate time series representation |  XinyuYang, Yanbian University | Knowledge-Based Systems(IF:8.139) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S0950705122002726  |  None |
+| Mixing up contrastive learning: Self-supervised representation learning for time series |  KristofferWickstrøma, UiT the Arctic University of Norway | Pattern Recognition Letters(IF:4.757) | 2022 | https://www.sciencedirect.com/science/article/pii/S0167865522000502  |  None |
+| CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting |  Gerald Woo, Salesforce Research Asia | ICLR | 2022 | https://arxiv.org/abs/2202.01575  |  https://github.com/salesforce/CoST |
+| Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency |  Xiang Zhang, Harvard University | NeruIPS  | 2022 | https://arxiv.org/abs/2206.08496  |  https://github.com/mims-harvard/TFC-pretraining |
+| TS2Vec: Towards Universal Representation of Time Series |  Zhihan Yue, Peking University | AAAI  | 2022 | https://ojs.aaai.org/index.php/AAAI/article/view/20881  |  https://github.com/yuezhihan/ts2vec |
+| Cross Reconstruction Transformer for Self-Supervised Time Series Representation Learning |  Wenrui Zhang,  National University of Singapore | arXiv  | 2022 | https://arxiv.org/abs/2205.09928  |  None |
+| Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting |  Zezhi Shao,  Chinese Academy of Sciences & University of the Chinese Academy of Sciences | SIGKDD  | 2022 | https://dl.acm.org/doi/abs/10.1145/3534678.3539396  |  https://github.com/zezhishao/STEP |
+| Decoupling Local and Global Representations of Time Series |  Sana Tonekaboni,  University of Toronto | arXiv  | 2022 | https://arxiv.org/abs/2202.02262  |  https://github.com/googleinterns/local_global_ts_representation |
+
 ### Transformers for Time Series
 |    Title                                                                      | Authors              | Journal/Conference | date     | Link     | Code                |
 |---|---|---|---|---|---|
@@ -80,6 +111,13 @@ If your publication is not included here, please email to zhaoshubao@enn.cn
 | Cross Reconstruction Transformer for Self-Supervised Time Series Representation Learning | Wenrui Zhang,   National University of Singapore     |   arXiv | 2022 | https://arxiv.org/pdf/2205.09928.pdf  |  None|
 | Enhancing Transformer Efficiency for Multivariate Time Series Classification | Yuqing Wang,    University of California     |   arXiv | 2022 | https://arxiv.org/abs/2203.14472 |  None|
 | Earthformer: Exploring Space-Time Transformers for Earth System Forecasting | Zhihan Gao,    Hong Kong University of Science and Technology     |   arXiv | 2022 | https://arxiv.org/abs/2207.05833 |  None|
-| Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting | Shizhan Liu,   1Ant Group,     |   arXiv | 2022 | https://openreview.net/pdf?id=0EXmFzUn5I |  https://github.com/alipay/Pyraformer|
+| Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting | Shizhan Liu, Ant Group,     |   arXiv | 2022 | https://openreview.net/pdf?id=0EXmFzUn5I |  https://github.com/alipay/Pyraformer|
 
 ### GNNs for Time Series
+
+### Probabilistic Time Series Forecasting
+
+### Federated Learning for Time Series
+
+
+## AI for Federated Learning
