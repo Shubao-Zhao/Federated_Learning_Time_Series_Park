@@ -1,4 +1,4 @@
-# Awesome-Federated-Learning-for-Time-Series
+# Federated Learning Time Series Park
 
 <strong>Last Update: January, 1, 2023</strong>.
 
