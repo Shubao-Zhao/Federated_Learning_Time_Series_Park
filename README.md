@@ -1,6 +1,6 @@
 # Federated Learning and Time Series Park
 
-<strong>Last Update: January, 1, 2023</strong>.
+<strong>Last Update: January, 13, 2023</strong>.
 
 If your publication is not included here, please email to zhaoshubao@enn.cn
 
