@@ -1,4 +1,4 @@
-# Federated Learning Time Series Park
+# Federated Learning and Time Series Park
 
 <strong>Last Update: January, 1, 2023</strong>.
 
