@@ -114,6 +114,26 @@ Contrastive Learning|  Rongfan Li,  University of Electronic Science and Technol
 | Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting | Shizhan Liu, Ant Group,     |   arXiv | 2022 | https://openreview.net/pdf?id=0EXmFzUn5I |  https://github.com/alipay/Pyraformer|
 
 ### GNNs for Time Series
+|    Title                                                                      | Authors              | Journal/Conference | date     | Link     | Code                |
+|---|---|---|---|---|---|
+| Financial time series forecasting with multi-modality graph neural network                        | DaweiCheng, Tongji University          |   Pattern Recognition(IF:8.518) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S003132032100399X   |  None |
+| Deep variational graph convolutional recurrent network for multivariate time series anomaly detection                       | Wenchao Chen, Xidian University          |   PMLR | 2022 | https://proceedings.mlr.press/v162/chen22x.html   |  None |
+| Combining time-series evidence: A complex network model based on a visibility graph and belief entropy   | Xingjian Song, Chongqing University          |   Applied Intelligence(IF:5.019) | 2022 | https://link.springer.com/article/10.1007/s10489-021-02956-5   |  None |
+| Series2Graph: Graph-based Subsequence Anomaly Detection for Time Series   | Paul Boniol, French University Institute          |   VLDB | 2022 | https://arxiv.org/abs/2207.12208  |  None |
+| Times series forecasting for urban building energy consumption based on graph convolutional network   | YuqingHu, The Pennsylvania State University,          |   Applied Energy(IF:11.446) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S0306261921014963|  None |
+| Spatial-temporal graph neural network for traffic forecasting: An overview and open research issues  | Khac-Hoai Nam Bui, Viettel Cyberspace Center          |   Applied Intelligence(IF:5.019) | 2022 | https://link.springer.com/article/10.1007/s10489-021-02587-w   |  None |
+| Subsequence-based Graph Routing Network for Capturing Multiple Risk Propagation Processes  | Rui Cheng, Southwestern University of Finance and Economics          |   IJCAI | 2022 | https://www.ijcai.org/proceedings/2022/0529.pdf  |  None |
+| Efficient residential electric load forecasting via transfer learning and graph neural networks  | Di Wu, McGill University          |   IEEE Transactions on Smart Grid(IF:10.275) | 2022 | https://ieeexplore.ieee.org/abstract/document/9897067  |  None |
+| A dynamical spatial-temporal graph neural network for traffic demand prediction  |FeihuHuang, Sichuan University          |   Information Sciences(IF:8.233) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S0020025522001669  |  None |
+| Graph neural network-based anomaly detection in multivariate time series  |Ailin Deng, National University of Singapore          |   AAAI | 2021 | https://ojs.aaai.org/index.php/AAAI/article/view/16523  |  https://github.com/d-ailin/GDN |
+| Learning graph structures with transformer for multivariate time series anomaly detection in iot  |Zekai Chen, George Washington University          |   IEEE Internet of Things Journal(IF:10.238) | 2021 | https://ieeexplore.ieee.org/abstract/document/9497343  |  https://github.com/ZEKAICHEN/GTA |
+| Pay attention to evolution: Time series forecasting with deep graph-evolution learning  |Gabriel Spadon, University of Sao Paulo          |   IEEE Transactions on Pattern Analysis and Machine Intelligence(IF:24.314) | 2021 | https://ieeexplore.ieee.org/abstract/document/9416768  |  https://github.com/gabrielspadon/ReGENN |
+| METRO: a generic graph neural network framework for multivariate time series forecasting  | Yue Cui, The Hong Kong University of Science and Technology         |   VLDB | 2021 | https://dl.acm.org/doi/abs/10.14778/3489496.3489503  |  None |
+| Dynamic Graph Learning-Neural Network for Multivariate Time Series Modeling  | Zhuoling Li, Shanghai University  |   arXiv | 2021 | https://arxiv.org/pdf/2112.03273.pdf  |  None |
+| Instance-wise Graph-based Framework for Multivariate Time Series Forecasting  | Wentao Xu, Sun Yat-sen University  |   arXiv | 2021 | https://arxiv.org/pdf/2109.06489.pdf |  https://github.com/Wentao-Xu/IGMTF |
+| FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting  | Boris N. Oreshkin, McGill University |   AAAI | 2021 | https://ojs.aaai.org/index.php/AAAI/article/view/17114 |  https://github.com/boreshkinai/fc-gaga |
+| Learning Probabalistic Graph Neural Networks for Multivariate Time Series Anomaly Detection  | Saswati Ray, CMU |   arXiv | 2021 | https://arxiv.org/pdf/2111.08082.pdf |  None |
+
 
 ### Probabilistic Time Series Forecasting
 
