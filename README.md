@@ -1,6 +1,6 @@
 # Federated Learning and Time Series Park
 
-<strong>Last Update: January, 13, 2023</strong>.
+<strong>Last Update: January, 1, 2023</strong>.
 
 If your publication is not included here, please email to zhaoshubao@enn.cn
 
@@ -136,6 +136,21 @@ Contrastive Learning|  Rongfan Li,  University of Electronic Science and Technol
 
 
 ### Probabilistic Time Series Forecasting
+
+|    Title                                                                      | Authors              | Journal/Conference | date     | Link     | Code                |
+|---|---|---|---|---|---|
+| Robust Probabilistic Time Series Forecasting                        | Taeho Yoon,  Seoul National University          |   arXiv | 2022 | https://arxiv.org/abs/2202.11910   |  https://github.com/tetrzim/robust-probabilistic-forecasting |
+| Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting                        | Vilde Jensen,  The Arctic University of Norway          |   arXiv | 2022 | https://arxiv.org/abs/2202.08756   |  None |
+| Multi-scale Attention Flow for Probabilistic Time Series Forecasting                        | Shibo Feng,  Xiamen University          |   arXiv | 2022 | https://arxiv.org/abs/2205.07493   |  None |
+| VQ-AR: Vector Quantized Autoregressive Probabilistic Time Series Forecasting                       | Kashif Rasul,  NAVER AI Lab       |   arXiv | 2022 | https://arxiv.org/abs/2205.15894   |  None |
+| Deep probabilistic time series forecasting using augmented recurrent input for dynamic systems | HaitaoLiua,  Dalian University of Technology      |   Mechanical Systems and Signal Processing(IF:8.934) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S0888327022003636   |  None |
+| An Interpretable Probabilistic Autoregressive Neural Network Model for Time Series Forecasting | Madhurima Panja,  Sorbonne University Abu Dhabi      |   arXiv | 2022 | https://arxiv.org/abs/2204.09640   |  None |
+| Blending gradient boosted trees and neural networks for point and probabilistic forecasting of hierarchical time series | IoannisNasios,   Ionian University      |   International Journal of Forecasting(IF:7.022) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S0169207022000012   |  https://github.com/IoannisNasios/M5_Uncertainty_3rd_place |
+| Sub-minute probabilistic solar forecasting for real-time stochastic simulations | DazhiYang,   Harbin Institute of Technology   |   Renewable and Sustainable Energy Reviews(IF:16.799) | 2022 | https://www.sciencedirect.com/science/article/abs/pii/S1364032121010078   |  e https://github.com/dazhiyang/AnEnlpQR |
+| Deep Time Series Forecasting With Shape and Temporal Criteria | Vincent Le Guen,   Harbin Institute of Technology   |   IEEE Transactions on Pattern Analysis and Machine Intelligence(IF:24.314) | 2022 | https://ieeexplore.ieee.org/abstract/document/9721108   |  e https://github.com/dazhiyang/AnEnlpQR |
+
+
+
 
 ### Federated Learning for Time Series
 
